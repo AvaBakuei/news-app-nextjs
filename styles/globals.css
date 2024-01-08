@@ -1,0 +1,40 @@
+html,
+body {
+  padding: 0;
+  margin: 0;
+  font-family: 'Poppins', sans-serif;
+}
+
+h1 {
+  font-size: 1.35rem;
+  font-weight: 500;
+  color:  #0376ff;
+}
+h2 {
+  font-size: 1.25rem;
+  font-weight: 500;
+  color:  #294360;
+}
+p {
+  font-size: 18px;
+  color: #9b9b9b;
+}
+span {
+  font-size: 0.75rem;
+  color: #9b9b9b;
+}
+a {
+  color: inherit;
+  text-decoration: none;
+  font-size: 18px;
+  color: #9b9b9b;
+}
+nav {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: row;
+}
+* {
+  box-sizing: border-box;
+}
