@@ -9,10 +9,9 @@ npm run dev
 # or
 yarn dev
 ```
-<div>
-  <image src="screenshot/homepage.png" alt="Home Page Shot" width="500px" height="400px" />
-  <image src="screenshot/topnews.png" alt="Top News Shot" width="500px" height="400px" />
-</div>
+
+<image src="screenshot/homepage.png" alt="Home Page Shot" />
+<image src="screenshot/topnews.png" alt="Top News Shot" />
 
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
